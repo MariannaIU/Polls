@@ -1,0 +1,139 @@
+.navbar-default, .btn, .form-control, .panel {
+    border-radius: 0;
+}
+.navbar-default {
+    background-color: rgba(245, 245, 220, .7);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    background-color: rgba(245, 245, 220, 0.9);
+    border-bottom: 4px solid #ddd;
+}
+.panel-default > .panel-heading {
+    color: #333;
+    background-color: rgba(245, 245, 220, .7);
+    border-color: rgba(245, 245, 220, .6);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.panel-footer {
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .4);
+}
+.panel {
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+a.navbar-brand, .panel-title {
+    font-weight: bolder;
+}
+
+
+.form-text-input{
+    width:90%;
+    display: inline-block;
+}
+
+.add-form-row{
+    display: inline-block;
+}
+
+
+
+
+
+.btn-success {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-success:active {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-success:hover {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-success:focus {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-success:focus:active {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-success:hover:active {
+    display: inline;
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+
+.btn-danger {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-danger:hover {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-danger:active {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-danger:focus {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+    outline: none;
+}
+.btn-danger:focus-visible {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+    outline: none;
+}
+.btn-danger:focus:active {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-danger:focus:focus-visible {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
+.btn-danger:hover:active {
+    color: #333;
+    background-color: rgba(245, 245, 220, .5);
+    border-color: rgba(245, 245, 220, .6);
+    box-shadow: 0px 3px 3px 0px #ddd;
+}
